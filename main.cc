@@ -5,7 +5,7 @@
 #include <vector>
 #include <limits>
 
-#define COLLISION 0
+#define COLLISION 1 // set to zero for dissable check double passwords here
 
 namespace {
 
